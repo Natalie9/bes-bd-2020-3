@@ -1,6 +1,6 @@
 ---
 name: Tópico xx
-about: Describe this issue template's purpose here.
+about: Issue para as atividades do tópico
 title: Tópico xx
 labels: ''
 assignees: ''
