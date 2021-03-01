@@ -1,5 +1,5 @@
 ---
-name: " Dúvidas"
+name: Dúvida
 about: 'Issue para dúvidas ''fora do fluxo de tópicos'' '
 title: "[Dúvida] <escreva aqui o assunto da sua dúvida>"
 labels: ''
