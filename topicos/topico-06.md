@@ -30,7 +30,7 @@ Algumas benefícios potenciais para o emprego de SGBDs são:
 - garantia de que dados sempre atuais estão disponíveis;
 - etc.
 
-## Atividade (data limite: **xx/xx/xxxx 23h59min59s**)
+## Atividade (data limite: **10/03/2021 23h59min59s**)
 
 Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 06", para responder:  
 1. Dentre os potenciais benefícios para o emprego de SGBDs, escolha dois (dentre os citados acima ou outros) e explique-os de forma objetiva, se possível com exemplos.
