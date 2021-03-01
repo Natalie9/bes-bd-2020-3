@@ -1,7 +1,7 @@
 ---
 name: Tópico
 about: Issue para as atividades do tópico
-title: Tópico xx
+title: Tópico <digite aqui o número do tópico>
 labels: ''
 assignees: ''
 
